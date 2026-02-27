@@ -1,0 +1,15 @@
+# Project To-Do List
+
+## Data Acquisition & Simulation
+- [ ] Download a few examples to run locally
+- [ ] Simulate data 
+
+## Signal Processing
+- [ ] filtering -> high pass, low pass, notch
+
+## Machine Learning & Validation
+- [ ] ML algorithms
+- [ ] BCI tests
+
+## Results & Visualization
+- [ ] results plotted data summary
